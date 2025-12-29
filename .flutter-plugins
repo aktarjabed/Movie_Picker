@@ -1,0 +1,17 @@
+# This is a generated file; do not edit or check into version control.
+firebase_analytics=/home/jules/.pub-cache/hosted/pub.dev/firebase_analytics-11.6.0/
+firebase_analytics_web=/home/jules/.pub-cache/hosted/pub.dev/firebase_analytics_web-0.5.10+16/
+firebase_core=/home/jules/.pub-cache/hosted/pub.dev/firebase_core-3.15.2/
+firebase_core_web=/home/jules/.pub-cache/hosted/pub.dev/firebase_core_web-2.24.1/
+firebase_crashlytics=/home/jules/.pub-cache/hosted/pub.dev/firebase_crashlytics-4.3.10/
+path_provider=/home/jules/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+path_provider_android=/home/jules/.pub-cache/hosted/pub.dev/path_provider_android-2.2.17/
+path_provider_foundation=/home/jules/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+path_provider_linux=/home/jules/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/home/jules/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+shared_preferences=/home/jules/.pub-cache/hosted/pub.dev/shared_preferences-2.5.3/
+shared_preferences_android=/home/jules/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.11/
+shared_preferences_foundation=/home/jules/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+shared_preferences_linux=/home/jules/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+shared_preferences_web=/home/jules/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3/
+shared_preferences_windows=/home/jules/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
